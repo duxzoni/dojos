@@ -1,4 +1,4 @@
-package caixa;
+package br.ghizoni.dojo.caixaeletronico;
 
 import java.util.HashMap;
 import java.util.Map;
