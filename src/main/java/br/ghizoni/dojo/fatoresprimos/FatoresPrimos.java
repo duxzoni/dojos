@@ -3,7 +3,9 @@ package br.ghizoni.dojo.fatoresprimos;
 import java.util.ArrayList;
 import java.util.List;
 
-/*Este problema foi utilizado em 148 Dojo(s).
+/*Geração de Fatores Primos
+Você está resolvendo este problema.
+Este problema foi utilizado em 149 Dojo(s).
 
 Todo número inteiro positivo pode ser representado pelo produto de potências de números primos (os chamados fatores primos).
 
